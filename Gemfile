@@ -43,7 +43,6 @@ group :development, :test do
   gem 'bundler-audit'
   gem 'debug', platforms: %i[mri mingw x64_mingw]
   gem 'pg'
-  gem 'rubocop', require: false
   gem 'rubocop-rails'
   gem 'rubocop', '~> 0.37.2', require: false
   gem 'ruby_audit'
