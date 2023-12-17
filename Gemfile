@@ -47,6 +47,8 @@ group :development, :test do
   gem 'rubocop-rails'
   gem 'rubocop', '~> 0.37.2', require: false
   gem 'ruby_audit'
+
+  gem 'rubocop-airbnb
   
 end
 
